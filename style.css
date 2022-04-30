@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+}
+
+a:link{
+    color:crimson;
+}
+
+/* a:visited{
+    color:brown;
+} */
